@@ -3,7 +3,7 @@
 **babel-eslint** allows you to lint **ALL** valid Babel code with the fantastic
 [ESLint](https://github.com/eslint/eslint).
 
-`babel-eslint` is successfully linting [babel core](https://github.com/babel/babel/blob/master/.eslintrc) and many other projects.
+`babel-eslint` is successfully linting [babel core](https://github.com/babel/babel) and many other projects.
 
 > If there is an issue, first check if it can be reproduced with the regular parser or with the latest versions of `eslint` and `babel-eslint`!
 
